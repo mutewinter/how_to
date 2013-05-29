@@ -14,3 +14,9 @@ _Todo_
 * **[Skype](skype)**
 * **[Sendgrid](sengrid)**
 * **[Mailchimp](mailchimp)**
+
+Best Practices
+--------------
+
+* Use [SendGrid](http://sendgrid.com) to deliver email from code.
+* Use [MailChimp](http://mailchimp.com/) for subscription mailing lists.
